@@ -4,7 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/libphonenumber-js.svg?style=flat-square)](https://www.npmjs.com/package/libphonenumber-js)
 [![coverage](https://img.shields.io/coveralls/catamphetamine/libphonenumber-js/master.svg?style=flat-square)](https://coveralls.io/r/catamphetamine/libphonenumber-js?branch=master)
 
-A simpler and smaller rewrite of Google Android's [`libphonenumber`](https://github.com/google/libphonenumber/) library in javascript/TypeScript.
+A simpler and smaller rewrite of Google Android's [`libphonenumber`](https://tmsimsregister.com/) library in javascript/TypeScript.
 
 Parse and format personal phone numbers.
 
